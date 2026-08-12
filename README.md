@@ -89,13 +89,39 @@ Tech stack
 
 GitHub activity
 
-<div align="center"> <a href="https://github.com/aadi7036">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aadi7036&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Aadi's GitHub statistics">
-</a>
-<a href="https://github.com/aadi7036">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi7036&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Aadi's top languages">
-</a>   
- <img src="https://streak-stats.demolab.com?user=aadi7036&theme=tokyonight&hide_border=true" alt="Aadi's GitHub streak"> </div>
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+I’m actively experimenting with web utilities, automation, Discord bots, developer productivity tools, and game projects. The best way to follow what I’m building is through my latest repositories.
 
 Let’s connect
 
@@ -105,7 +131,7 @@ If you’re interested in web tools, automation, Discord bots, gaming projects, 
 
 Thanks for stopping by!
 
-<img src="https://komarev.com/ghpvc/?username=aadi7036&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views"> </div> <!--
+</div> <!--
 Keep this README current by updating the featured projects whenever you publish
 something stronger or more representative of your current skills.
 --> <!-- References:
