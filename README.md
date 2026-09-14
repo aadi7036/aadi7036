@@ -1,144 +1,91 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Aadi%20Savani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
+
+<a href="https://aadisavani.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
+</a>
+<a href="https://github.com/aadi7036">
+<img src="https://img.shields.io/badge/GitHub-aadi7036-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+<a href="https://discord.gg/QDbp8yBcaz">
+<img src="https://img.shields.io/badge/Discord-Community-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" />
+</a>
+
+  
 
 
-Upgrade
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+useful+software+with+code;Web+tools+%7C+Automation+%7C+Bots;Games+%7C+Developer+Tools+%7C+Experiments" />
 
-Share
-https://github.com/aadi7036
+</div>
 
- 
+---
 
-i want to upgrade my readme 
+## About Me
 
- 
+I’m **Aadi Savani**, a software developer from **Jamnagar, India**, currently pursuing my **BCA**.
 
-u can better it? like change the ui aur 3d themes? something new and trending or non copyright
+I enjoy building practical software that solves everyday problems. My work includes privacy-first web utilities, offline applications, Discord bots, automation tools, multiplayer games, and developer productivity projects.
 
-Lite
-Yes — I redesigned it with an original neon developer cockpit / 3D-inspired theme.
-What changed
-Original SVG hero artwork created specifically for your profile
-Cleaner developer positioning and intro
-Better visual hierarchy and shorter sections
-Modern dark cyan/violet palette
-Featured project cards with consistent styling
-Removed the old typing animation and excessive text
-Added a clearer “What I build” section
-Kept your actual projects and links
-No copied characters, branded artwork, or stock illustrations
-Files are ready here:
-Redesigned README.md
-Original hero.svg artwork
-How to apply it
-Because GitHub is currently signed out and your GitHub connector is disabled, I couldn’t commit directly to your repository.
-Upload both files to the root of aadi7036/aadi7036:
-Upload hero.svg
-Replace your existing README.md
-Commit the changes
-The README expects the artwork at:
+
+Focus:
+├── Web utilities
+├── Automation and AI workflows
+├── Discord bots
+├── Multiplayer games
+├── Developer tools
+└── Offline-first applications
+Currently building small tools, bots, and software experiments
+Learning modern web development, JavaScript ecosystems, automation, and software design
+Interested in JavaScript, HTML, CSS, Python, Flutter, Discord bots, and developer tools
+Outside coding: competitive Valorant, setup experiments, and rap
+Tech Stack
+<div align="center"><img src="https://skillicons.dev/icons?i=javascript,html,css,python,java,dart,flutter,nodejs,git,github,vscode&perline=11" /></div>
+Featured Projects
+<div align="center"><a href="https://github.com/aadi7036/PocketTools"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=PocketTools&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa&border_color=1e3a5f" width="48%" /> </a><a href="https://github.com/aadi7036/Explain-PR"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=Explain-PR&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa&border_color=1e3a5f" width="48%" /> </a><a href="https://github.com/aadi7036/MultiArena-Clash"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=MultiArena-Clash&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa&border_color=1e3a5f" width="48%" /> </a><a href="https://github.com/aadi7036/clean-nodes"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=clean-nodes&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa&border_color=1e3a5f" width="48%" /> </a></div>
+Things I’ve Built
+PocketTools
+Privacy-first browser utilities including:
+Unit converter
+Timer
+Password generator
+QR code generator
+Runs completely on the client side, works offline, and is released under CC0 / public domain.
+Explain-PR
+An automated pull-request assistant that provides:
+Plain-language PR summaries
+Risk analysis
+Test suggestions
+Reviewer recommendations
+MultiArena-Clash
+A cross-platform multiplayer competitive game featuring:
+Real-time battles
+Leaderboards
+User authentication
+Multiplayer gameplay systems
+clean-nodes
+A command-line utility for safely finding and removing unnecessary folders such as:
 text
-https://raw.githubusercontent.com/aadi7036/aadi7036/main/hero.svg
-So upload the SVG first, or the hero image may briefly appear broken until both files are committed.
-Aadi Savani
-<div align="center"><img src="https://raw.githubusercontent.com/aadi7036/aadi7036/main/hero.svg" alt="Aadi Savani — building useful software" width="100%" />
-Software developer building useful tools, automations, bots, and game systems.
-Portfolio
-GitHub
-Discord
-</div>
-I like turning small, annoying problems into focused software that feels simple to use.
-About me
-I’m a developer from Jamnagar, India, currently pursuing my BCA. My projects sit at the intersection of practical software, automation, and experimentation—from offline-first browser utilities and desktop apps to Discord bots, pull-request analysis, multiplayer games, and developer productivity tools.
-Building small tools, bots, and experiments with clean user experiences
-Learning modern web development, JavaScript ecosystems, automation, and software design
-Interested in JavaScript, HTML, CSS, Python, Flutter, Discord bots, Minecraft development, and developer tools
-Outside code: competitive Valorant, setup experiments, and rap
-What I build
-Focus
-What it looks like
-Web utilities
-Lightweight, privacy-first tools that work in the browser and offline
-Automation
-PR summaries, risk analysis, test suggestions, and workflow improvements
-Bots
-Discord experiences for stats, rankings, match history, and communities
-Developer tools
-CLI utilities that remove repetitive maintenance work
-Games and apps
-Multiplayer systems and offline-first desktop applications
-Selected work
-<div align="center">
-<a href="https://github.com/aadi7036/PocketTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=PocketTools&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&border_color=263449&bg_color=0B1220" width="49%" alt="PocketTools" /></a>
-<a href="https://github.com/aadi7036/Explain-PR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=Explain-PR&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&border_color=263449&bg_color=0B1220" width="49%" alt="Explain-PR" /></a>
-<a href="https://github.com/aadi7036/MultiArena-Clash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=MultiArena-Clash&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&border_color=263449&bg_color=0B1220" width="49%" alt="MultiArena-Clash" /></a>
-<a href="https://github.com/aadi7036/clean-nodes"><img src="https://github-readme-stats.vercel.app/api/pin
-Task completed
-8:27 PM
-How was this result?
-
-Agent todo completed
-
-
-
-Manus Desktop
-
-Manus is an AI Agent and can make mistakes. Please double-check before use.
-
-README
-Last modified: 8:27 PM
-<div align="center"> <img src="https://raw.githubusercontent.com/aadi7036/aadi7036/main/hero.svg" alt="Aadi Savani — building useful software" width="100%" />
-Aadi Savani
-Software developer building useful tools, automations, bots, and game systems.
-﻿
-
-﻿
-
-﻿
-</div>
-I like turning small, annoying problems into focused software that feels simple to use.
-About me
-I’m a developer from Jamnagar, India, currently pursuing my BCA. My projects sit at the intersection of practical software, automation, and experimentation—from offline-first browser utilities and desktop apps to Discord bots, pull-request analysis, multiplayer games, and developer productivity tools.
-Building small tools, bots, and experiments with clean user experiences
-Learning modern web development, JavaScript ecosystems, automation, and software design
-Interested in JavaScript, HTML, CSS, Python, Flutter, Discord bots, Minecraft development, and developer tools
-Outside code: competitive Valorant, setup experiments, and rap
-What I build
-Focus
-What it looks like
-Web utilities
-Lightweight, privacy-first tools that work in the browser and offline
-Automation
-PR summaries, risk analysis, test suggestions, and workflow improvements
-Bots
-Discord experiences for stats, rankings, match history, and communities
-Developer tools
-CLI utilities that remove repetitive maintenance work
-Games and apps
-Multiplayer systems and offline-first desktop applications
-Selected work
-<div align="center">
-<a href="https://github.com/aadi7036/PocketTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=PocketTools&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&border_color=263449&bg_color=0B1220" width="49%" alt="PocketTools" /></a>
-<a href="https://github.com/aadi7036/Explain-PR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=Explain-PR&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&border_color=263449&bg_color=0B1220" width="49%" alt="Explain-PR" /></a>
-<a href="https://github.com/aadi7036/MultiArena-Clash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=MultiArena-Clash&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&border_color=263449&bg_color=0B1220" width="49%" alt="MultiArena-Clash" /></a>
-<a href="https://github.com/aadi7036/clean-nodes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=clean-nodes&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&border_color=263449&bg_color=0B1220" width="49%" alt="clean-nodes" /></a>
-</div>
-A few things I’ve shipped
-PocketTools — privacy-first, client-side browser utilities that work offline. Released under CC0 / public domain.
-Explain-PR — plain-language pull-request summaries, risk flags, test suggestions, and reviewer recommendations.
-MultiArena-Clash — a cross-platform multiplayer game with real-time battles, leaderboards, and authentication.
-clean-nodes — a CLI for safely finding and removing node_modules and other junk folders.
-Malaysia Postcode App — an offline desktop app for fast Malaysian postcode lookups.
-Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=javascript,html,css,python,java,dart,flutter,nodejs,git,github,vscode&perline=11" alt="JavaScript, HTML, CSS, Python, Java, Dart, Flutter, Node.js, Git, GitHub, and VS Code" /> </div>
-Currently exploring
-practical software  →  useful automation  →  better developer workflows
-        web tools   →  community bots    →  multiplayer experiments
-Let’s connect
-If you’re interested in web tools, automation, Discord bots, gaming projects, or developer productivity, feel free to reach out. I’m always open to learning, collaborating, and building something interesting.
-<div align="center">
-Thanks for stopping by.
-<sub>Original profile artwork by Aadi Savani · Built with SVG, Markdown, and a little neon.</sub>
-</div>
-Solid content. Ready to share it as a website?
-
-Create website
-How to Upgrade and Trendify My GitHub Readme? - Manus
+node_modules
+.cache
+dist
+build
+temporary files
+Malaysia Postcode App
+An offline desktop application for quickly searching Malaysian postcodes.
+GitHub Statistics
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aadi7036&show_icons=true&hide_border=true&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa" width="49%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi7036&theme=transparent&background=0f172a&border=1e3a5f&stroke=1e3a5f&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" width="49%" /></div>
+Currently Exploring
+text
+Practical software
+        ↓
+Useful automation
+        ↓
+Better developer workflows
+        ↓
+Web tools • Bots • Games • Experiments
+Connect With Me
+<div align="center"><a href="https://aadisavani.netlify.app"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a><a href="https://discord.gg/QDbp8yBcaz"> <img src="https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a>
+  
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" width="100%" /></div> 
