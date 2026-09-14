@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,50:0f172a,100:164e63&text=AADI%20SAVANI&fontColor=67e8f9&fontSize=58&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20BUILDER%20%7C%20PROBLEM%20SOLVER&descColor=cbd5e1&descSize=16&descAlignY=62&stroke=22d3ee&strokeWidth=2&animation=fadeIn" width="100%" />
@@ -152,7 +151,6 @@ An offline desktop application for quickly searching Malaysian postcodes.
                                ╔══════════╗
                                ║   SHIP   ║
                                ╚══════════╝
-```
 
 </div>
 
