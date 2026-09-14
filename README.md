@@ -1,105 +1,127 @@
-## Featured Projects
+<div align="center"> <img src="https://raw.githubusercontent.com/aadi7036/aadi7036/main/hero.svg" alt="Aadi Savani — building useful software" width="100%" />
 
-| Project | Description |
-|---|---|
-| [PocketTools](https://github.com/aadi7036/PocketTools) | Privacy-first browser utilities including a unit converter, timer, password generator, and QR generator. Works offline and is released under CC0. |
-| [Explain-PR](https://github.com/aadi7036/Explain-PR) | Automated pull-request summaries, risk analysis, test suggestions, and reviewer recommendations. |
-| [MultiArena-Clash](https://github.com/aadi7036/MultiArena-Clash) | A cross-platform multiplayer game with real-time battles, leaderboards, and user authentication. |
-| [clean-nodes](https://github.com/aadi7036/clean-nodes) | A CLI utility for safely finding and removing unnecessary folders such as `node_modules`, `dist`, and cache directories. |
-| [Malaysia Postcode App](https://github.com/aadi7036/Malaysia-Postcode-App) | An offline desktop application for quickly searching Malaysian postcodes. |
+Aadi Savani
 
----
-
-## Things I’ve Built
-
-### [PocketTools](https://github.com/aadi7036/PocketTools)
-
-A privacy-first collection of browser utilities:
-
-- Unit converter
-- Timer
-- Password generator
-- QR code generator
-- Offline support
-- No accounts or tracking
-
-Released under **CC0 / public domain**.
-
-### [Explain-PR](https://github.com/aadi7036/Explain-PR)
-
-An automated pull-request assistant that provides:
-
-- Plain-language summaries
-- Risk analysis
-- Test suggestions
-- Reviewer recommendations
-
-### [MultiArena-Clash](https://github.com/aadi7036/MultiArena-Clash)
-
-A cross-platform multiplayer competitive game featuring:
-
-- Real-time battles
-- Leaderboards
-- User authentication
-- Multiplayer gameplay systems
-
-### [clean-nodes](https://github.com/aadi7036/clean-nodes)
-
-A command-line utility for finding and removing unnecessary folders such as:
+Software developer building useful tools, automations, bots, and game systems.
 
 
-node_modules
-.cache
-dist
-build
-temporary files
 
 
-### [Malaysia Postcode App](https://github.com/aadi7036/Malaysia-Postcode-App)
-
-An offline desktop application for quickly searching Malaysian postcodes.
-
----
-
-## Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Currently Exploring
 
 
-Practical software
-        ↓
-Useful automation
-        ↓
-Better developer workflows
-        ↓
-Web tools • Bots • Games • Experiments
 
 
----
-
-## Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aadisavani.netlify.app/)
-
-[![Discord](https://img.shields.io/badge/Discord-Join%20my%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QDbp8yBcaz)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadi7036)
-
-Also remove these from the earlier version because they are the likely source of broken images:
 
 
-https://github-readme-stats.vercel.app
-https://github-readme-streak-stats.herokuapp.com
-https://capsule-render.vercel.app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+I like turning small, annoying problems into focused software that feels simple to use.
+
+About me
+
+I’m a developer from Jamnagar, India, currently pursuing my BCA. My projects sit at the intersection of practical software, automation, and experimentation—from offline-first browser utilities and desktop apps to Discord bots, pull-request analysis, multiplayer games, and developer productivity tools.
+
+•
+Building small tools, bots, and experiments with clean user experiences
+
+•
+Learning modern web development, JavaScript ecosystems, automation, and software design
+
+•
+Interested in JavaScript, HTML, CSS, Python, Flutter, Discord bots, Minecraft development, and developer tools
+
+•
+Outside code: competitive Valorant, setup experiments, and rap
+
+What I build
+
+Focus
+What it looks like
+Web utilities
+Lightweight, privacy-first tools that work in the browser and offline
+Automation
+PR summaries, risk analysis, test suggestions, and workflow improvements
+Bots
+Discord experiences for stats, rankings, match history, and communities
+Developer tools
+CLI utilities that remove repetitive maintenance work
+Games and apps
+Multiplayer systems and offline-first desktop applications
+
+
+
+
+Selected work
+
+<div align="center">
+
+<a href="https://github.com/aadi7036/PocketTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=PocketTools&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&border_color=263449&bg_color=0B1220" width="49%" alt="PocketTools" /></a>
+<a href="https://github.com/aadi7036/Explain-PR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=Explain-PR&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&border_color=263449&bg_color=0B1220" width="49%" alt="Explain-PR" /></a>
+<a href="https://github.com/aadi7036/MultiArena-Clash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=MultiArena-Clash&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&border_color=263449&bg_color=0B1220" width="49%" alt="MultiArena-Clash" /></a>
+<a href="https://github.com/aadi7036/clean-nodes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=clean-nodes&theme=transparent&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA&border_color=263449&bg_color=0B1220" width="49%" alt="clean-nodes" /></a>
+
+</div>
+
+A few things I’ve shipped
+
+•
+PocketTools — privacy-first, client-side browser utilities that work offline. Released under CC0 / public domain.
+
+•
+Explain-PR — plain-language pull-request summaries, risk flags, test suggestions, and reviewer recommendations.
+
+•
+MultiArena-Clash — a cross-platform multiplayer game with real-time battles, leaderboards, and authentication.
+
+•
+clean-nodes — a CLI for safely finding and removing node_modules and other junk folders.
+
+•
+Malaysia Postcode App — an offline desktop app for fast Malaysian postcode lookups.
+
+Stack
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=javascript,html,css,python,java,dart,flutter,nodejs,git,github,vscode&perline=11" alt="JavaScript, HTML, CSS, Python, Java, Dart, Flutter, Node.js, Git, GitHub, and VS Code" /> </div>
+
+Currently exploring
+
+Plain Text
+
+
+practical software  →  useful automation  →  better developer workflows
+        web tools   →  community bots    →  multiplayer experiments
+
+
+
+Let’s connect
+
+If you’re interested in web tools, automation, Discord bots, gaming projects, or developer productivity, feel free to reach out. I’m always open to learning, collaborating, and building something interesting.
+
+<div align="center">
+
+Thanks for stopping by.
+
+<sub>Original profile artwork by Aadi Savani · Built with SVG, Markdown, and a little neon.</sub>
+
+</div>
+
