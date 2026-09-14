@@ -1,82 +1,83 @@
-<div align="center">
+## Featured Projects
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Aadi%20Savani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
-
-<a href="https://aadisavani.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
-</a>
-<a href="https://github.com/aadi7036">
-<img src="https://img.shields.io/badge/GitHub-aadi7036-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-<a href="https://discord.gg/QDbp8yBcaz">
-<img src="https://img.shields.io/badge/Discord-Community-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" />
-</a>
-
-  
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+useful+software+with+code;Web+tools+%7C+Automation+%7C+Bots;Games+%7C+Developer+Tools+%7C+Experiments" />
-
-</div>
+| Project | Description |
+|---|---|
+| [PocketTools](https://github.com/aadi7036/PocketTools) | Privacy-first browser utilities including a unit converter, timer, password generator, and QR generator. Works offline and is released under CC0. |
+| [Explain-PR](https://github.com/aadi7036/Explain-PR) | Automated pull-request summaries, risk analysis, test suggestions, and reviewer recommendations. |
+| [MultiArena-Clash](https://github.com/aadi7036/MultiArena-Clash) | A cross-platform multiplayer game with real-time battles, leaderboards, and user authentication. |
+| [clean-nodes](https://github.com/aadi7036/clean-nodes) | A CLI utility for safely finding and removing unnecessary folders such as `node_modules`, `dist`, and cache directories. |
+| [Malaysia Postcode App](https://github.com/aadi7036/Malaysia-Postcode-App) | An offline desktop application for quickly searching Malaysian postcodes. |
 
 ---
 
-## About Me
+## Things I’ve Built
 
-I’m **Aadi Savani**, a software developer from **Jamnagar, India**, currently pursuing my **BCA**.
+### [PocketTools](https://github.com/aadi7036/PocketTools)
 
-I enjoy building practical software that solves everyday problems. My work includes privacy-first web utilities, offline applications, Discord bots, automation tools, multiplayer games, and developer productivity projects.
+A privacy-first collection of browser utilities:
 
+- Unit converter
+- Timer
+- Password generator
+- QR code generator
+- Offline support
+- No accounts or tracking
 
-Focus:
-├── Web utilities
-├── Automation and AI workflows
-├── Discord bots
-├── Multiplayer games
-├── Developer tools
-└── Offline-first applications
-Currently building small tools, bots, and software experiments
-Learning modern web development, JavaScript ecosystems, automation, and software design
-Interested in JavaScript, HTML, CSS, Python, Flutter, Discord bots, and developer tools
-Outside coding: competitive Valorant, setup experiments, and rap
-Tech Stack
-<div align="center"><img src="https://skillicons.dev/icons?i=javascript,html,css,python,java,dart,flutter,nodejs,git,github,vscode&perline=11" /></div>
-Featured Projects
-<div align="center"><a href="https://github.com/aadi7036/PocketTools"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=PocketTools&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa&border_color=1e3a5f" width="48%" /> </a><a href="https://github.com/aadi7036/Explain-PR"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=Explain-PR&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa&border_color=1e3a5f" width="48%" /> </a><a href="https://github.com/aadi7036/MultiArena-Clash"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=MultiArena-Clash&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa&border_color=1e3a5f" width="48%" /> </a><a href="https://github.com/aadi7036/clean-nodes"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadi7036&repo=clean-nodes&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa&border_color=1e3a5f" width="48%" /> </a></div>
-Things I’ve Built
-PocketTools
-Privacy-first browser utilities including:
-Unit converter
-Timer
-Password generator
-QR code generator
-Runs completely on the client side, works offline, and is released under CC0 / public domain.
-Explain-PR
+Released under **CC0 / public domain**.
+
+### [Explain-PR](https://github.com/aadi7036/Explain-PR)
+
 An automated pull-request assistant that provides:
-Plain-language PR summaries
-Risk analysis
-Test suggestions
-Reviewer recommendations
-MultiArena-Clash
+
+- Plain-language summaries
+- Risk analysis
+- Test suggestions
+- Reviewer recommendations
+
+### [MultiArena-Clash](https://github.com/aadi7036/MultiArena-Clash)
+
 A cross-platform multiplayer competitive game featuring:
-Real-time battles
-Leaderboards
-User authentication
-Multiplayer gameplay systems
-clean-nodes
-A command-line utility for safely finding and removing unnecessary folders such as:
-text
+
+- Real-time battles
+- Leaderboards
+- User authentication
+- Multiplayer gameplay systems
+
+### [clean-nodes](https://github.com/aadi7036/clean-nodes)
+
+A command-line utility for finding and removing unnecessary folders such as:
+
+
 node_modules
 .cache
 dist
 build
 temporary files
-Malaysia Postcode App
+
+
+### [Malaysia Postcode App](https://github.com/aadi7036/Malaysia-Postcode-App)
+
 An offline desktop application for quickly searching Malaysian postcodes.
-GitHub Statistics
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aadi7036&show_icons=true&hide_border=true&theme=transparent&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa" width="49%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi7036&theme=transparent&background=0f172a&border=1e3a5f&stroke=1e3a5f&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" width="49%" /></div>
-Currently Exploring
-text
+
+---
+
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Currently Exploring
+
+
 Practical software
         ↓
 Useful automation
@@ -84,8 +85,21 @@ Useful automation
 Better developer workflows
         ↓
 Web tools • Bots • Games • Experiments
-Connect With Me
-<div align="center"><a href="https://aadisavani.netlify.app"> <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a><a href="https://discord.gg/QDbp8yBcaz"> <img src="https://img.shields.io/badge/Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a>
-  
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" width="100%" /></div> 
+
+
+---
+
+## Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aadisavani.netlify.app/)
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20my%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QDbp8yBcaz)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadi7036)
+
+Also remove these from the earlier version because they are the likely source of broken images:
+
+
+https://github-readme-stats.vercel.app
+https://github-readme-streak-stats.herokuapp.com
+https://capsule-render.vercel.app
